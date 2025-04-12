@@ -1,0 +1,21 @@
+{
+  "name": "Abuhaycoin Token List",
+  "logoURI": "https://ipfs.io/ipfs/QmbwXeHjzViR8T55Be6xKm4TUV6pU51r5uy2WQCwzM3W5Y",
+  "keywords": ["abuhay", "token", "aby"],
+  "timestamp": "2025-04-12T08:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xbf38DE253A004c1487c2c2D1CcBF0725B5aC57b4",
+      "symbol": "ABY",
+      "name": "Abuhaycoin",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmbwXeHjzViR8T55Be6xKm4TUV6pU51r5uy2WQCwzM3W5Y"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
